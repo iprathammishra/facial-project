@@ -1,0 +1,1 @@
+Frontend for Facial Recognition App using AWS Rekognition, Lambda, S3, API Gateway, and DynamoDB.
